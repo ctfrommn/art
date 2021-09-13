@@ -67,7 +67,6 @@ art_global_defaults {
     cflags: [
         // Base set of cflags used by all things ART.
         "-fno-rtti",
-        "-ggdb3",
         "-Wall",
         "-Werror",
         "-Wextra",
